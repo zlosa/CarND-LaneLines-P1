@@ -33,13 +33,13 @@ blending original image and image with lines.
 ###2. Identify potential shortcomings with your current pipeline
 
 
-One potential shortcoming would be what would happen when ... 
+One potential shortcoming would be what would happen when the video is rolling and the pipeline cannot sustain the lines accurately. 
 
-Another shortcoming could be ...
+Another shortcoming could be frame dropping. 
 
 
 ###3. Suggest possible improvements to your pipeline
 
-A possible improvement would be to ...
+A possible improvement would be to have different processing of white and yellow lines
 
-Another potential improvement could be to ...
+Another potential improvement could be to try a kalman filter. 
